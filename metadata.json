@@ -1,0 +1,6 @@
+{
+  "name": "Style Street",
+  "description": "Style Street - Where Fashion Meets Confidence. A trendy and affordable clothing brand with collections for everyone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
