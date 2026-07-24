@@ -90,7 +90,7 @@ export default function Home({ navigate }: { navigate: (page: string) => void })
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
           {[
             { name: "Casual Wear", image: "https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?w=800&q=80" },
-            { name: "Streetwear", image: "https://images.unsplash.com/photo-1523398002811-999aa8e95707?w=800&q=80" },
+            { name: "Streetwear", image: https://www.pinterest.com/pin/most-beautiful-fancy-outfits-ideas-best-collection-and-fancy-dresses-designs-for-teens--902831056529179316/
             { name: "Formal Outfits", image: "https://images.unsplash.com/photo-1594938298596-afbb4f59fcb0?w=800&q=80" },
             { name: "Seasonal", image: "https://images.unsplash.com/photo-1434389678219-158fb7e0ce37?w=800&q=80" }
           ].map((item, i) => (
