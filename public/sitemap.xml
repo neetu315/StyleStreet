@@ -7,25 +7,25 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://style-street-rho.vercel.app/</loc>
+    <loc>https://style-street-rho.vercel.app/about</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://style-street-rho.vercel.app/</loc>
+    <loc>https://style-street-rho.vercel.app/products</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://style-street-rho.vercel.app/</loc>
+    <loc>https://style-street-rho.vercel.app/blog</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://style-street-rho.vercel.app/</loc>
+    <loc>https://style-street-rho.vercel.app/contact</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
